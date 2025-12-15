@@ -29,8 +29,7 @@ A sophisticated RAG pipeline with semantic caching that:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd Cache-RAG-with-Langraph
+git clone
 ```
 
 2. Create a virtual environment (recommended):
